@@ -1,0 +1,6 @@
+include ':remote'
+include ':localdb'
+include ':model'
+include ':base'
+include ':app'
+rootProject.name = "BaseClassesDemo"
